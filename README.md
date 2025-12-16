@@ -1,5 +1,6 @@
 # ENHANCING ONLINE RL FINE-TUNING VIA ADAPTIVE Q-FUNCTION SELECTION
-- [](images/method.pdf)
+## Method
+<img src="images/method.png" width="700" />
 # Installation
 `pip install -r requriements.txt`
 # Train
