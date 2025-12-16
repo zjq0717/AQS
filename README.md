@@ -2,6 +2,8 @@
 ## Method
 <img src="images/method.png" width="700" />
 # Installation
-`pip install -r requriements.txt`
+```bash
+pip install -r requirements.txt
 # Train
-`python algorithms/AQS.py --config_path=configs/D4RL/walker2d/random_v2.yaml`
+```bash
+python algorithms/AQS.py --config_path=configs/D4RL/walker2d/random_v2.yaml
